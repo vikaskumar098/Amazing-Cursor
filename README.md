@@ -135,6 +135,5 @@ background: radial-gradient(120px at var(--x) var(--y),
 <p align="center">⭐ If you like this project, kindly star the repository!</p>
 
 <p align="center">Made with ❤️ by Vikas Kumar</p>
-```
 
 
